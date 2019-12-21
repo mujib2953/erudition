@@ -12,6 +12,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Pounds to Kgs Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days006)
     - [Char and Boolean](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days007)
     - [String](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days008)
+    - [Operators And Operands](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days009)
     
 Author
 -
