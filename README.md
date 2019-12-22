@@ -15,6 +15,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Operators And Operands](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days009)
     - [If Else Statement](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days010)
     - [Operator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days011)
+    - [Method Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days012)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
