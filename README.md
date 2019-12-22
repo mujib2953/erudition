@@ -22,6 +22,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Leap Year Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days016)
     - [Decimal Comparator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days017)
     - [Equal Sum Checker Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days018)
+    - [Teen Number Checker Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days019)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
