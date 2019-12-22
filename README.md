@@ -19,6 +19,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Speed Converter Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days013)
     - [MegaBytes Converter Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days014)
     - [Barking Dog Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days015)
+    - [Leap Year Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days016)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
