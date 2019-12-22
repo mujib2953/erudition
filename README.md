@@ -21,6 +21,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Barking Dog Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days015)
     - [Leap Year Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days016)
     - [Decimal Comparator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days017)
+    - [Equal Sum Checker Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Days018)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
