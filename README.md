@@ -30,6 +30,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Equality Printer Calculator](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days024)
     - [Playing Cat](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days025)
     - [Switch Case Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days026)
+    - [Day Of The Week Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days027)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
