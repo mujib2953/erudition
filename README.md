@@ -26,6 +26,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Feet And Inches To Centimeter Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days001to020/days020) (Method Overloading)
     - [Seconds And Minutes Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days021)
     - [Area Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days022)
+    - [Minutes To Years And Days Calculator](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days023)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
