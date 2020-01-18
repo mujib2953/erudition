@@ -27,6 +27,8 @@ Seconds And Minutes Challenge
     - getDurationString(3945);        => 01h 05m 45s
     - getDurationString(80, 26);      => 01h 20m 26s
     - getDurationString(65, 45);      => 01h 05m 45s
+    - getDurationString(-65, 45);     => Invalid Value
+    - getDurationString(65, -45);     => Invalid Value
 ```
 
 #### Solution:
@@ -40,6 +42,8 @@ public class SecondsAndMinutes {
         System.out.println(getDurationString(3945));
         System.out.println(getDurationString(80, 26));
         System.out.println(getDurationString(65, 45));
+        System.out.println(getDurationString(-65, 45));
+        System.out.println(getDurationString(65, -45));
     }
 
     public static String getDurationString(
@@ -49,7 +53,7 @@ public class SecondsAndMinutes {
         boolean isMinutesValid = (minutes >= 0);
         boolean isSecondsValid = (seconds >=0 && seconds <= 59);
 
-        if (!(isMinutesValid || isSecondsValid)) {
+        if (!isMinutesValid || !isSecondsValid) {
             return "Invalid Value";
         }
 
@@ -94,4 +98,6 @@ public class SecondsAndMinutes {
 01h 05m 45s
 01h 20m 26s
 01h 05m 45s
+Invalid Value
+Invalid Value
 ```
