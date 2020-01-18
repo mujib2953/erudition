@@ -28,6 +28,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Area Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days022)
     - [Minutes To Years And Days Calculator](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days023)
     - [Equality Printer Calculator](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days024)
+    - [Playing Cat](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days025)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
