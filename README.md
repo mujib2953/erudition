@@ -24,6 +24,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Equal Sum Checker Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days001to020/days018)
     - [Teen Number Checker Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days001to020/days019)
     - [Feet And Inches To Centimeter Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days001to020/days020) (Method Overloading)
+    - [Seconds And Minutes Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days021)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
