@@ -32,6 +32,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Switch Case Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days026)
     - [Day Of The Week Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days027)
     - [Number In Words](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days028)
+    - [Number Of Days In Month](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days029)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
