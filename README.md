@@ -36,6 +36,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Challenge For Loop](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days030) calculateInterest
     - [Find Prime Number](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days031)
     - [Sum 3 And 5](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days032)
+    - [Sum Odd](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days033)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
