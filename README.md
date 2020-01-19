@@ -39,6 +39,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Sum Odd](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days033)
     - [Even Number While Loop](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days034)
     - [Sum Of Digit Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days035)
+    - [Number Palindrome Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days036)
     
 - Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
