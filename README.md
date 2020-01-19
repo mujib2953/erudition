@@ -43,6 +43,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Number Palindrome Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days036)
     - [First And Last Digit Sum Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days037)
     - [Even Digit Sum Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days038)
+    - [Shared Digit Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days039)
     
 Author
 -
