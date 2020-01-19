@@ -3,6 +3,7 @@ erudition
 
 This repository is created with intention to learn and evolve my Java skills to next level.
 
+- Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
 - Content    
     - [Hello World](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days001to020/days001)
     - [Expression](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days001to020/days002)
@@ -42,8 +43,6 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Number Palindrome Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days036)
     - [First And Last Digit Sum Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days037)
     - [Even Digit Sum Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days038)
-    
-- Some important [links](https://github.com/mujib2953/erudition/tree/master/src/com/learning/Links) while learning Java.
     
 Author
 -
