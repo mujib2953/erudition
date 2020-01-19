@@ -45,6 +45,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Even Digit Sum Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days038)
     - [Shared Digit Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days039)
     - [Last Digit Checker Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days021to040/days040)
+    - [Greatest Common Divisor Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days041)
     
 Author
 -
