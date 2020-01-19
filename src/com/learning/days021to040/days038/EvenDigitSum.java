@@ -18,10 +18,10 @@ public class EvenDigitSum {
         int givenNumber = number;
 
         while (givenNumber != 0) {
-            int leastSignificatntDigit = givenNumber % 10;
+            int leastSignificantDigit = givenNumber % 10;
 
-            if(isEven(leastSignificatntDigit)) {
-                sum += leastSignificatntDigit;
+            if(isEven(leastSignificantDigit)) {
+                sum += leastSignificantDigit;
             }
 
             givenNumber /= 10;
