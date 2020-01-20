@@ -51,6 +51,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Number To Words Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days044)
     - [Flour Pack Problem Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days045)
     - [Largest Prime Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days046)
+    - [Diagonal Star Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days047)
     
 Author
 -
