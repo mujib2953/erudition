@@ -56,6 +56,8 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Min Max Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days049)
     - [Input Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days050)
     - [Paint Job Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days051)
+    - ======================= Java OOP (from here) ===================
+    - [SimpleCalculator](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days052)
     
 Author
 -
