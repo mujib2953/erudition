@@ -58,6 +58,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Paint Job Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days051)
     - ======================= Java OOP (from here) ===================
     - [SimpleCalculator](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days052)
+    - [Person](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days053)
     
 Author
 -
