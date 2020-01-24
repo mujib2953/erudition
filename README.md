@@ -60,6 +60,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [SimpleCalculator](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days052)
     - [Person](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days053)
     - [Bank Account](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days054)
+    - [Wall Area Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days055)
     
 Author
 -
