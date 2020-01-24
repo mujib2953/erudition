@@ -65,6 +65,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Carpet Cost Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days057)
     - [Complex Operations Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days058)
     - [Vehicle Problem](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days059) (Inheritance)
+    - [Cylinder Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days060)
     
 Author
 -
