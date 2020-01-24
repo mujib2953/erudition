@@ -63,6 +63,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Wall Area Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days055)
     - [Point Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days056)
     - [Carpet Cost Calculator Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days057)
+    - [Complex Operations Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days058)
     
 Author
 -
