@@ -70,6 +70,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Room](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days062) (Composition)
     - [Printer Problem](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days063) (Encapsulation)
     - [Car Problem](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days064) (Polymorphism)
+    - [Bills Burgers Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days065) (OOP Challenge)
     
 Author
 -
