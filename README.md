@@ -68,6 +68,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Cylinder Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days041to060/days060)
     - [Pool Area Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days061)
     - [Room](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days062) (Composition)
+    - [Printer Problem](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days063) (Encapsulation)
     
 Author
 -
