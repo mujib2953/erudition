@@ -73,6 +73,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Bills Burgers Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days065) (OOP Challenge)
     - ======================= Array, ArrayList and LinkList (from here) ===================
     - [Array Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days066)
+    - [Array Min Element Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days067)
     
 Author
 -
