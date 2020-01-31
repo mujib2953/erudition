@@ -77,6 +77,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Array Reverse Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days068)
     - [Groceries List with ArrayList Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days069)
     - [Mobile Phone Book with ArrayList Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days070)
+    - [Music Playlist with LinkedList Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days071)
     
 Author
 -
