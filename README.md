@@ -80,6 +80,7 @@ This repository is created with intention to learn and evolve my Java skills to 
     - [Music Playlist with LinkedList Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days071)
     - =================== Interface, Inner Class and Abstract Class (from here) ===============
     - [Saveable Interface Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days072)
+    - [Custom LinkedList Challenge](https://github.com/mujib2953/erudition/tree/master/src/com/learning/days061to080/days073)
     
 Author
 -
